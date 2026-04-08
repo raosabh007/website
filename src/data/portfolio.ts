@@ -32,7 +32,7 @@ export const portfolioData = {
   location: "Jodhpur, Rajasthan, India",
   email: "amitabhmathur12@gmail.com",
   phone: "+91 9509109721",
-  linkedin: "https://www.linkedin.com/in/amitabh-mathur-54918232a/",
+  linkedin: "https://www.linkedin.com/in/amitabh-mathur2711/",
   github: "https://github.com/raosabh007",
   tagline:
     "Building intelligent systems that feel sharp, useful, and grounded in the real world.",
